@@ -13,3 +13,6 @@ Shalke 04
 -------------Ingleses
 Man United
 Man city
+------------Hoaldeses
+PSV
+Ajax
