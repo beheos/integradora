@@ -16,3 +16,6 @@ Man city
 ------------Franceses
 paris
 lyon
+------------Hoaldeses
+PSV
+Ajax
