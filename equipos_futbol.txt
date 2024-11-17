@@ -5,7 +5,11 @@ Bayer Munich
 Borussia Dor
 Shalke 04
 Man United
+<<<<<<< HEAD
 Man city
 Atletico de Madrid
 Milan
 Inter
+=======
+
+>>>>>>> 863fd21c2035e568a590311940e14677e74d3ba3
