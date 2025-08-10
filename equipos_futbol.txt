@@ -13,9 +13,8 @@ Shalke 04
 -------------Ingleses
 Man United
 Man city
-------------Franceses
-paris
-lyon
 ------------Hoaldeses
 PSV
 Ajax
+------------Franceses
+paris
